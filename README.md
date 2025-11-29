@@ -32,3 +32,8 @@ Ensure you have the following installed on your system:
 
 
 ### Installation
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/harshrana14-fi/crash-game-frontend.git
+   cd crash-game-frontend
